@@ -1,0 +1,44 @@
+01 Write a program that finds the volume of different shapes (like rectangle,cylinder,cube) using function overloading.
+
+
+
+02 Write a class to represent time that includes the member function to perform the following: 
+*Take input for time in hours and minutes. 
+*Add two times.
+*Display the time in form hours : minutes.
+
+03 Create a class called COMPLEX that has two private data called real and imaginary. Include constructor function to input real & imaginary values, show() to display complex numbers. Write a program to add two complex numbers.
+
+
+04 Write a program to find the largest and smallest number between two numbers of different classes.
+
+
+05 Using class write a program that would be able to do the following task:
+a) To create the vector
+b) To add the value of a two vector
+c) To modify the value of a goven element
+d) To display the vector in the form (ai+bj+ck)
+
+
+06 Create a class float that contains one float data number. Overload all the four arithmetic operator for two objects.
+
+
+07 Given the following base class:
+ Class area_cl
+ {public:
+ double heignt;
+ double width;
+ };
+Create two derived classes called rectangule and isosceles that inherit area_cl. Have each class include a function area () that returns the area of a rectangle isosceles triangle, as appropriate. Use parameterized constructors to initialize height and width. Write the complete program.
+
+
+08 Create an abstract base class called shape. Derive class rectangle from the base class shape and a class cube from the rectangle class.
+Data members: length, width for class rectangle
+ height for class cube
+Member function: area(),print() for class rectangle
+ Volume(), print() for class cube
+Make function print() as virtual and declare as a pure virtual function in the base class. Write a program to compute the area of rectangle and volume of cube and display the result using base lass pointer.
+09 Write a program to read two files simultaneously.
+
+
+10 Write a program to perform the deletion of white saces such as horizontal tab, vertical tab, sace, line feed, new line and carriage return from a text file and to store the contents of the file without white spaces on another file.
