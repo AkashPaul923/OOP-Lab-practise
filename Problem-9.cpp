@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+//define class
 class area_cl
 {
 public:
@@ -35,7 +37,7 @@ public:
         return a;
     }
 };
-
+//main function
 int main()
 {
     rectangle r1(5.5,7.3);
